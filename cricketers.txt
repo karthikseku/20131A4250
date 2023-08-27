@@ -1,5 +1,5 @@
 kohli
 raina
-rohit
-dhoni
+rohit(vc)
+dhoni(c)
 jadeja
